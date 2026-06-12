@@ -15,7 +15,7 @@ from datetime import date
 st.set_page_config(page_title="Escala de Mídia — Instagram", layout="wide")
 
 # ── Configurações Gerais ───────────────────────────────────────────
-EQUIPE = ["Helloysa", "Estphany", "Jhennifer", ]
+EQUIPE = ["Helloysa", "Estephany", "Jhennifer", ]
 ANO = 2025
 MES = 7  # Julho
 ARQUIVO_DADOS = "dados_escala_direta.json"
